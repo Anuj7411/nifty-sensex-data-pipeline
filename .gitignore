@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints/
+.jupyter_runtime/
+__pycache__/
+*.pyc
